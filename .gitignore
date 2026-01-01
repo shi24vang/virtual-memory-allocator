@@ -1,0 +1,10 @@
+# Build artifacts
+build/
+liballocator.a
+demo
+demo.dSYM/
+tests/basic_test
+tests/basic_test.dSYM/
+
+# macOS metadata
+.DS_Store
